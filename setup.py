@@ -2,7 +2,6 @@
 
 from setuptools import setup
 from waspmoteFrameParser import __version__ as version
-from waspmoteFrameParser.binaryDataParser import parse_data
 
 setup(
     name="waspmoteFrameParser",
